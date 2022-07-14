@@ -1,0 +1,203 @@
+Name,Author,Author Profile,Post
+Installing and Configuring the OpenTelemetry Collector,Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,https://scoutapm.com/blog/configuring-opentelemetry-collector
+How to Increase PHP Memory Limits,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/increase-php-memory-limit
+Popular Python Design Patterns,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/python-design-patterns
+How to Optimize Laravel Application Performance,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/optimize-laravel-performance
+Error Monitoring - The Necessary Application Feature,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/importance-of-error-monitoring
+Get Started with Python Error Reporting,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/get-started-python-error-reporting
+Monolithic Applications: A Relic of the Past?,Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,https://scoutapm.com/blog/monolithic-applications
+Why API Monitoring is a Business Necessity,Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,https://scoutapm.com/blog/api-monitoring
+How to Combat Python Memory Leaks,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/how-to-combat-python-memory-leaks
+Instrumenting Your Custom Application Code with OpenTelemetry,Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,https://scoutapm.com/blog/instrumenting-with-opentelemetry
+How to Improve Flask Performance,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/improving-flask-performance
+Flask vs. Django - Which One Outperforms the Other?,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/flask-vs-django
+A Primer on Cloud Architecture,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/cloud-architecture
+Configuring OpenTelemetry in Python,Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,https://scoutapm.com/blog/configuring-opentelemetry-python
+"Kubernetes Basics: Clusters, Pods, and Nodes",Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/kubernetes-101
+The Real Benefits of HTTP Monitoring for Businesses,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/http-monitoring
+A Comprehensive Guide to Migrating from Python 2 to Python 3,Gautam Prajapati,https://scoutapm.com/blog/author/gautam-prajapati,https://scoutapm.com/blog/python-2-to-python-3
+10 Popular Design Patterns for Ruby on Rails,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/rails-design-patterns
+What is OpenTelemetry and Why is Scout All In?,Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,https://scoutapm.com/blog/what-is-opentelemetry
+Configuring OpenTelemetry in Ruby,Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,https://scoutapm.com/blog/configuring-opentelemetry-in-ruby
+What is Cloud-Native Monitoring?,Scout APM ,https://scoutapm.com/blog/author/scout-apm,https://scoutapm.com/blog/cloud-native-monitoring
+How to Manage Ruby Memory Usage,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/manage-ruby-memory-usage
+Getting Started with Prometheus and Grafana,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/prometheus-grafana
+The Business Case for Docker Adoption,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/docker-adoption
+OpenTelemetry and Distributed Tracing in JavaScript,Dave Anderson,https://scoutapm.com/blog/author/dave-anderson,https://scoutapm.com/blog/opentelemetry-in-javascript
+Canary Testing - What It Is And Why You Should Use It,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/canary-testing
+Distributed Monoliths vs. Microservices: Which Are You Building?,Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,https://scoutapm.com/blog/distributed-monoliths-vs-microservices
+End-User Monitoring: How it Can Impact Your Business,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/what-is-end-user-monitoring
+Azure vs. AWS vs. GCP: A Direct Comparison,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/azure-vs-aws-vs-gcp
+Prometheus Architecture Explained,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/prometheus-architecture
+.NET Core vs. .NET Framework: Side-by-Side Comparison,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/net-core-vs-net-framework
+Express vs. Hapi: A Head-to-Head Comparison,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/express-vs-hapi
+SOA vs. Microservices: A Head-to-Head Comparison,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/soa-vs-microservices
+What are Script Errors and How Can We Address Them?,Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,https://scoutapm.com/blog/script-errors
+A Developer’s Guide to Web Application Architecture,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/web-application-architecture
+A Primer on Prometheus Metrics,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/prometheus-metrics
+Monolithic vs. Microservices Architecture: A Side-by-Side Comparison,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/monolithic-vs-microservices
+The Developer’s Guide to SOLID Design Principles,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/solid-design-principles
+How to Use the Delegate Method in Rails,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/delegate-rails
+Node.js Module Exports Explained,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/nodejs-module-exports
+What is Full Cycle Software Development?,Arwin Lashawn,https://scoutapm.com/blog/author/arwin-lashawn,https://scoutapm.com/blog/full-cycle-development
+PHP Handlers | Why They Matter,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/php-handlers
+Ruby Flip Flop: What It Is and When to Use It,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/ruby-flip-flop
+How to Use Ruby BEGIN and END Blocks,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/ruby-begin-end
+Monitoring Kubernetes with Prometheus,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/monitoring-kubernetes-prometheus
+Logging and Monitoring: A Match Made in Software Heaven,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/logging-monitoring
+8 Dynatrace Alternatives to Consider in 2021,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/8-dynatrace-alternatives-to-consider-in-2021
+Getting Started with Docker: A Tutorial,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/getting-started-with-docker-a-tutorial
+Dynatrace vs. SolarWinds vs. Scout,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/dynatrace-vs-solarwinds-vs-scout
+Encapsulation in OOP: Definition and Examples,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/what-is-encapsulation
+What is Prometheus? The Essential Guide,Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,https://scoutapm.com/blog/what-is-prometheus
+A Comprehensive Cloud Migration Checklist,Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,https://scoutapm.com/blog/cloud-migration-checklist
+Premature Optimization: Root of All Evil or Rationalization?,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/premature-optimization
+What is SDLC? An Intro to the Software Development Lifecycle,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/sdlc
+How to Retry in Ruby,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/ruby-retry
+Kubernetes: Weighing Advantages and Disadvantages,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/kubernetes-advantages-disadvantages
+What is Agile Methodology and How Does it Work?,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/agile-methodology
+Concrete Steps to Reducing MTTR,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/reduce-mttr
+Alternatives to Using GitHub in 2021,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/github-alternatives
+How to Create a Ruby Function on AWS Lambda,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/aws-lambda-rails
+Should You Use Rails Concerns?,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/rails-concerns
+PHP vs. Python: Is One Better Than The Other?,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/php-vs-python
+A Guide to Error Handling in Express.js,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/express-error-handling
+A Guide to Application Monitoring Best Practices,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/application-monitoring-best-practices
+Observability vs Monitoring: Key Differences Explained,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/observability-vs-monitoring
+Functional vs. Procedural vs. Object-Oriented Programming,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/functional-vs-procedural-vs-oop
+Comparing Top Container Software Options for 2021,Arwin Lashawn,https://scoutapm.com/blog/author/arwin-lashawn,https://scoutapm.com/blog/container-service-tools
+30 World-Class JS and Node.JS Developers to Follow in 2021,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/node-js-developers
+The Complete Guide to Microservices,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/microservices
+How to Steer Clear of Application Performance Bottlenecks,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/performance-bottlenecks
+15 Tips for Better Python Performance,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/python-performance-tips
+Container Monitoring: Essential Tools + Best Practices,Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,https://scoutapm.com/blog/container-monitoring
+What is a Docker Container?,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/what-is-a-docker-container
+The State of Ruby on Rails in 2021,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/state-of-ruby
+4 Best Practices for Root Cause Analysis,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/root-cause-analysis
+Set up a CI/CD Pipeline with Cloud-Native Tools,Arwin Lashawn,https://scoutapm.com/blog/author/arwin-lashawn,https://scoutapm.com/blog/ci-cd-pipelines
+How Common Application Issues Kill Performance,Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,https://scoutapm.com/blog/how-common-application-issues-kill-performance
+How to Optimize Docker Performance,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/docker-performance
+The Essential Guide to PHP Error Logging,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/php-error-logging
+How (and Why) to Use Ruby Enumerators,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/ruby-enumerator
+How To Detect and Prevent Memory Leaks,Emmanuel Christian,https://scoutapm.com/blog/author/emmanuel-christian,https://scoutapm.com/blog/memory-leaks
+How to Identify and Debug Memory Bloat,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/memory-bloat
+"The Top Features of Eloquent, Laravel’s ORM",Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/laravel-eloquent-features
+Types in Ruby 3: New Features Explained,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/ruby-3-typing
+8 Crucial Database Performance Metrics,Special contributor to Scout APM,https://scoutapm.com/blog/author/special-contributor-to-scout-apm,https://scoutapm.com/blog/database-performance-metrics
+Ractor: Ruby’s Version of the Actor Model,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/ruby-ractor
+3 Ways to Reuse Twig Templates in Symfony,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/3-ways-to-reuse-twig-templates-in-symfony
+Python Memory Management: The Essential Guide,Arwin Lashawn,https://scoutapm.com/blog/author/arwin-lashawn,https://scoutapm.com/blog/python-memory-management
+Container Orchestration Tools Explained,Sarmad Saleem,https://scoutapm.com/blog/author/sarmad-saleem,https://scoutapm.com/blog/container-orchestration-tools-explained
+Latest Ruby Versions Updated in Real Time,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/ruby-3-features
+Python Garbage Collection: A Guide for Developers,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/python-garbage-collection
+Performance Impact of Using Ruby on Rails View Partials,Pawel Urbanek,https://scoutapm.com/blog/author/pawel-urbanek,https://scoutapm.com/blog/performance-impact-of-using-ruby-on-rails-view-partials
+Setting Up TailwindCSS on Laravel,Prince Sinha,https://scoutapm.com/blog/author/prince-sinha,https://scoutapm.com/blog/tailwind-css-laravel
+How to Monitor Kubernetes Applications,Sarmad Saleem,https://scoutapm.com/blog/author/sarmad-saleem,https://scoutapm.com/blog/monitoring-kubernetes
+The 9 Most Popular PHP Frameworks for Developers,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/popular-php-frameworks-for-developers
+A Guide to Using Nested Routes in Ruby,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/rails-nested-routes
+How to Use Docker’s Health Check Command,Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,https://scoutapm.com/blog/how-to-use-docker-healthcheck
+Log Analysis: What Is It and How Does It Work?,Jake Stinson,https://scoutapm.com/blog/author/jake-stinson,https://scoutapm.com/blog/log-analysis-what-is-it-and-how-does-it-work
+Kubernetes vs. Docker,Jeremy Hillpot,https://scoutapm.com/blog/author/jeremy-hillpot,https://scoutapm.com/blog/kubernetes-vs-docker
+An Introduction to Kubernetes and Its Uses,Sarmad Saleem,https://scoutapm.com/blog/author/sarmad-saleem,https://scoutapm.com/blog/kubernetes-uses-and-introduction
+Finding and Fixing N+1 Queries,Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,https://scoutapm.com/blog/finding-and-fixing-n1-queries
+Application Performance Monitoring - What is APM?,Matt Sanders,https://scoutapm.com/blog/author/matt-sanders,https://scoutapm.com/blog/application-performance-monitoring-what-is-apm
+How Containerized Applications Increase Speed & Efficiency,Emmanuel Christian,https://scoutapm.com/blog/author/emmanuel-christian,https://scoutapm.com/blog/how-containerized-applications-work
+Asynchronous Javascript: From Promises to Async/Await,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/async-javascript
+Containers vs. VMs: Which Should You Use?,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/container-vs-vm
+Serverless vs. Containers: Key Differences Explained,David Tidmarsh,https://scoutapm.com/blog/author/david-tidmarsh,https://scoutapm.com/blog/serverless-vs-containers
+Continuous Integration vs. Continuous Deployment,Arwin Lashawn,https://scoutapm.com/blog/author/arwin-lashawn,https://scoutapm.com/blog/continuous-integration-vs-continuous-deployment
+A Guide to Python Lambda Functions,Adam Johnson,https://scoutapm.com/blog/author/adam-johnson,https://scoutapm.com/blog/a-guide-to-python-lambda-functions
+How to Use PHP Include and Require Statements,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/how-to-use-php-include-and-require-statements
+Node.js Logging: A How-to Guide,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/nodejs-logging-a-how-to-guide
+How to Enable PHP Error Reporting,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/how-to-enable-php-error-reporting
+Better Python Decorators with Wrapt,Adam Johnson,https://scoutapm.com/blog/author/adam-johnson,https://scoutapm.com/blog/better-python-decorators-with-wrapt
+The Most Popular Python Web Frameworks in 2021,Matt Sanders,https://scoutapm.com/blog/author/matt-sanders,https://scoutapm.com/blog/the-most-popular-python-web-frameworks-in-2020
+"PHP Memory Leaks, How to Find and Fix Them",Matthew Thompson,https://scoutapm.com/blog/author/matthew-thompson,https://scoutapm.com/blog/php-memory-leaks-how-to-find-and-fix-them
+How to Convert a String to a Number in PHP,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/how-to-convert-a-string-to-a-number-in-php
+How to Create a Python Stack,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/how-to-create-a-python-stack
+PHP Json_encode: Serialize PHP Objects to JSON,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/php-json_encode-serialize-php-objects-to-json
+Node.js Architecture and 12 Best Practices for Node.js Development,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/nodejs-architecture-and-12-best-practices-for-nodejs-development
+Control Structures in PHP: Loop Types Explained,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/control-structures-php
+A Tour of 7 Popular Ruby Frameworks in 2021,Thomas Finch,https://scoutapm.com/blog/author/thomas-finch,https://scoutapm.com/blog/a-tour-of-7-popular-ruby-frameworks-in-2020
+Go Fast: Getting Started with Sanic for Python,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/go-fast-getting-started-with-sanic-for-python
+Ruby Garbage Collection | Memory Management,Dan Moore,https://scoutapm.com/blog/author/dan-moore,https://scoutapm.com/blog/ruby-garbage-collection
+Programmatically Adding Laravel Middleware,PJ Hagerty,https://scoutapm.com/blog/author/pj-hagerty,https://scoutapm.com/blog/programmatically-adding-middleware-to-laravel
+Elixir GenServers: Overview and Tutorial,David Tidmarsh,https://scoutapm.com/blog/author/david-tidmarsh,https://scoutapm.com/blog/elixirs-genservers-overview-and-tutorial
+Tutorial: Log to Console in PHP,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/tutorial-log-to-console-in-php
+Migrating from Python 2 to 3: Automated Tools and Strategies,Gautam Prajapati,https://scoutapm.com/blog/author/gautam-prajapati,https://scoutapm.com/blog/automated-tools-and-strategies-to-help-migrate-from-python-2-to-3
+How to Use Lambdas in Ruby,Dan Moore,https://scoutapm.com/blog/author/dan-moore,https://scoutapm.com/blog/how-to-use-lambdas-in-ruby
+"How to Find, Fix, and Prevent Node.js Memory Leaks",Ganesh Mani,https://scoutapm.com/blog/author/ganesh-mani,https://scoutapm.com/blog/nodejs-memory-leaks
+Python vs. Java: Comparing Two Popular Programming Languages,Satwik Kansal,https://scoutapm.com/blog/author/satwik-kansal,https://scoutapm.com/blog/python-vs-java
+A Comprehensive Guide to migrating from Python 2(Legacy) to Python 3,Gautam Prajapati,https://scoutapm.com/blog/author/gautam-prajapati,https://scoutapm.com/blog/comprehensive-guide-to-migrating-from-python-2-to-python-3
+Exception Handling in Ruby,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/exception-handling-in-ruby
+Python Flask Tutorial - Getting Started with Flask,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/python-flask-tutorial-getting-started-with-flask
+PHP Advanced Exceptions Tutorial,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/php-advanced-exceptions-tutorial
+Python vs. Ruby,Satwik Kansal,https://scoutapm.com/blog/author/satwik-kansal,https://scoutapm.com/blog/python-vs-ruby
+Memory Management in Python,Pranam Lashkari,https://scoutapm.com/blog/author/pranam-lashkari,https://scoutapm.com/blog/memory-management-in-python
+Python Protocol Buffers,Tim Grossman,https://scoutapm.com/blog/author/tim-grossman,https://scoutapm.com/blog/python-protocol-buffers
+"Birds of a Fiber: A look at Falcon, a modern asynchronous web server for Ruby",Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,https://scoutapm.com/blog/birds-of-a-fiber
+Understanding Linux CPU Load - when should you be worried?,Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,https://scoutapm.com/blog/understanding-load-averages
+Monitoring Apdex with Scout APM,Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,https://scoutapm.com/blog/monitoring-apdex-with-scout-apm
+Understanding page faults and memory swap-in/outs: when should you worry?,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/understanding-page-faults-and-memory-swap-in-outs-when-should-you-worry
+"How to use Mint, an awesome HTTP library for Elixir - Part 02",Minhajuddin Khaja,https://scoutapm.com/blog/author/minhajuddin-khaja,https://scoutapm.com/blog/how-to-use-mint-an-awesome-http-library-for-elixir-part-02
+Understanding Heroku Error Codes with Scout APM,Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,https://scoutapm.com/blog/understanding-heroku-error-codes-with-scout-apm
+"Making sense of ActiveRecord joins, includes, preload, and eager_load",Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,https://scoutapm.com/blog/activerecord-includes-vs-joins-vs-preload-vs-eager_load-when-and-where
+Continuous Deployment Tools,Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,https://scoutapm.com/blog/continuous-deployment-tools
+A Primer on Ruby Yield and Blocks,Kumar Harsh,https://scoutapm.com/blog/author/kumar-harsh,https://scoutapm.com/blog/ruby-yield-blocks
+Identifying bottlenecks and optimizing performance in a Python codebase,Satwik Kansal,https://scoutapm.com/blog/author/satwik-kansal,https://scoutapm.com/blog/identifying-bottlenecks-and-optimizing-performance-in-a-python-codebase
+Unicorn vs. Puma vs. Passenger: which app server is right for you?,Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,https://scoutapm.com/blog/which-ruby-app-server-is-right-for-you
+Prometheus and Docker: Monitoring Your Environment,Erik Jacobsen,https://scoutapm.com/blog/author/erik-jacobsen,https://scoutapm.com/blog/prometheus-and-docker-monitoring-your-environment
+What’s new in Rails 6?,Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,https://scoutapm.com/blog/whats-new-in-rails-6
+Understanding Linux CPU stats,Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,https://scoutapm.com/blog/understanding-linuxs-cpu-stats
+Container Orchestration in 2019,Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,https://scoutapm.com/blog/container-orchestration-in-2019
+The danger of Rails.env.production?,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/the-danger-of-rails-env-production
+"How to use Mint, an awesome HTTP library for Elixir - Part 01",Minhajuddin Khaja,https://scoutapm.com/blog/author/minhajuddin-khaja,https://scoutapm.com/blog/how-to-use-mint-an-awesome-http-library-for-elixir-part-01
+Which Ruby background job framework is right for you?,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/which-ruby-background-job-framework-is-right-for-you
+Free memory on Linux: free -m vs /proc/meminfo,Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,https://scoutapm.com/blog/free-memory-on-linux-free-m-vs-proc-meminfo
+Debugging with Rails Logger,Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,https://scoutapm.com/blog/debugging-with-rails-logger
+Building Docker Containers for our Rails Apps,Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,https://scoutapm.com/blog/building-docker-containers-for-our-rails-apps
+8 Things You Should Know About Docker Containers,Matthew Chigira,https://scoutapm.com/blog/author/matthew-chigira,https://scoutapm.com/blog/8-things-you-should-know-about-docker-containers
+What you need to know about Ruby Interpreter,Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,https://scoutapm.com/blog/ruby-interpreters-what-you-need-to-know
+Omnibus Tutorial: Package a standalone Ruby gem,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/omnibus-tutorial-package-a-standalone-ruby-gem
+Rails::API vs. Sinatra vs. Grape: which Ruby microframework is right for you?,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/rails-api-vs-sinatra-vs-grape-which-ruby-microframework-is-right-for-you
+Finding slow ActiveRecord queries with Scout,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/finding-slow-activerecord-queries-with-scout
+Part I: How not to structure your database-backed web apps,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/part-i-how-not-to-structure-your-database-backed-web-apps
+Why put Rust in our Python Monitoring agent?,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/why-put-rust-in-our-python-monitoring-agent
+"Setting up a Rails app for CodeBuild, CodeDeploy, and CodePipeline on AWS",Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/setting-up-a-rails-app-for-codebuild-codedeploy-and-codepipeline-on-aws
+"Restricting Process CPU Usage Using nice, cpulimit, and cgroups",Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,https://scoutapm.com/blog/restricting-process-cpu-usage-using-nice-cpulimit-and-cgroups
+AWS Disaster Recovery: Configuring a Read Replica and a Multi-AZ,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/aws-disaster-recovery-configuring-a-read-replica-and-a-multi-az
+Deploying Faktory to AWS Fargate,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/deploying-faktory-to-aws-fargate
+Deploying to AWS Part IV: Performance monitoring with Scout,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/deploying-to-aws-part-iv-performance-monitoring-with-scout
+Tutorial: Distributed Tracing in Ruby with OpenTracing,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/tutorial-distributed-tracing-in-ruby-with-opentracing
+Deploying a Faktory worker to AWS Fargate,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/deploying-a-faktory-worker-to-aws-fargate
+Deploying to AWS Part I: Docker Rails Deployment,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/dockerizing-a-rails-app
+How to Deploy a Rails App to Amazon AWS Using Fargate (Part II),Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/deploying-to-aws-part-i-running-a-rails-app-on-fargate
+A tour of Python monitoring tools,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/a-tour-of-python-monitoring-tools
+Deploying to AWS Part III: Log aggregation,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/deploying-to-aws-part-iii-log-aggregation
+Proper Python Instrumentation: 5 Things to Keep In Mind,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/python-instrumentation
+OpenTracing Tutorial: Using Flask Python Requests,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/opentracing-tutorial-flask-python
+"Deploying to AWS Part V: the final punch list (load balancer, CDN, SSL)",Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/deploying-to-aws-part-v-the-final-punch-list-load-balancer-cdn-ssl
+3 Git Productivity Hacks,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/3-git-productivity-hacks
+Understanding disk inodes,Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,https://scoutapm.com/blog/understanding-disk-inodes
+Monitoring GenServer calls with Scout,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/monitoring-genserver-calls-with-scout
+Elixir foundations for Ruby Devs: transforming data,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/elixir-foundations-for-ruby-devs-transforming-data
+Visualizing Rails logs With Jupyter Notebook,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/visualizing-rails-logs-with-jupyter-notebook
+An intro to the Docker Stats API,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/monitoring-docker-containers-from-scratch
+From MySQL full-text search to Elasticsearch,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/from-mysql-full-text-search-to-elasticsearch
+4 ways to get the most out of your Rails logs,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/4-ways-to-get-the-most-out-of-your-rails-logs
+Java for Rubyists,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/java-for-rubyists
+Observability: the new wave or another buzzword?,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/observability-the-new-wave-or-another-buzzword
+RVM and cron in production,Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,https://scoutapm.com/blog/rvm-and-cron-in-production
+From MySQL+MMM to MariaDB+Galera Cluster: A High Availability Makeover,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/from-mysql-mmm-to-mariadb-galera-cluster-a-high-availability-makeover
+Embedded Customer Support With Rapportive,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/embedded-customer-support-with-rapportive
+MySQL Tuning Tips with Scout,Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,https://scoutapm.com/blog/mysql-tuning-tips-with-scout
+Determining free memory on Linux,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/determining-free-memory-on-linux
+Docker: Git for deployment,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/docker-git-for-deployment
+The Short and Sweet SSL How-to,Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,https://scoutapm.com/blog/the-short-and-sweet-ssl-how-to
+Detect and Fix HAProxy+Apache+Passenger Queue Backlogs,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/detecting-haproxy-apache-passenger-queue-backlogs
+From Ruby to Go: a rewrite for the future,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/from-ruby-to-go-a-rewrite-for-the-future
+Understanding CPU Steal Time - when should you be worried?,Derek Haynes,https://scoutapm.com/blog/author/derek-haynes,https://scoutapm.com/blog/understanding-cpu-steal-time-when-should-you-be-worried
+MongoDB Slow Queries Monitoring,Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,https://scoutapm.com/blog/mongodb-slow-queries-monitoring
+Production Server Sysadmin Essentials,Andre Lewis,https://scoutapm.com/blog/author/andre-lewis,https://scoutapm.com/blog/production-server-sysadmin-essentials
+AWS Disaster Recovery: an overview and a backups tutorial,Doug Breaker,https://scoutapm.com/blog/author/doug-breaker,https://scoutapm.com/blog/part-1-automated-backups-and-disaster-recovery-on-aws
+Best PHP Monitoring Tools on the Market,Mukul Khanna,https://scoutapm.com/blog/author/mukul-khanna,https://scoutapm.com/blog/php-monitoring-tool-roundup
